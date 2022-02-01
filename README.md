@@ -1,5 +1,5 @@
-# Desafio de projeto sobre Git/GitHub da DIO 💪
-Repositório criado para o desafio de projeto sobre Git/GitHub da DIO
+# Desafio de projeto da DIO 💪
+Repositório criado para registrar as atividades desenvolvidas durante o Bootcamp Sportheca Mobile Developer
 
 ## Links úteis 💻
  - [Sintaxe básica](https://www.markdownguide.org/basic-syntax/)
